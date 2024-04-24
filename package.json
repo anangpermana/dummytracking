@@ -1,0 +1,14 @@
+{
+  "name": "dummytracking",
+  "version": "1.0.0",
+  "description": "dumy data tracking",
+  "main": "index.js",
+  "author": "Anang Permana",
+  "license": "MIT",
+  "dependencies": {
+    "cbor": "^9.0.2",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1",
+    "mqtt": "^5.5.3"
+  }
+}
